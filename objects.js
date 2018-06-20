@@ -1,5 +1,5 @@
 var playList = {
-  
+  someartist: "Never Let You Go!"
 }
 
 function updatePlaylist(obj, artist, title){

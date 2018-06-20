@@ -1,4 +1,4 @@
-var playList = {
+var playlist = {
   someartist: 'Never Let You Go!'
 };
 
